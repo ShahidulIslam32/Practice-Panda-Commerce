@@ -1,0 +1,27 @@
+.under input{
+    margin-left: 60px;
+    width: 350px;
+    border-radius:50px;
+}
+.carousel-item img{
+    width: 400px;
+}
+.carousel-item{
+    padding: 30px;
+}
+.carousel-inner{
+    background-color: #FEEAE9;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.left{
+    margin-top: 80px;
+
+}
+.price{
+    color: #FF136F;
+}
+.btn-danger{
+    background-color: #FF136F;
+}
+
